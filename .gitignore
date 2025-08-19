@@ -11,6 +11,7 @@ bluesim.sim
 a.out
 a.exe
 
+
 # Verilog / C++ outputs from -verilog or -sim
 *.v
 *.cxx
