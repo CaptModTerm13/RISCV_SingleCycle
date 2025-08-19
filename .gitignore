@@ -1,0 +1,33 @@
+# Bluespec build artifacts
+*.bo
+*.ba
+*.bi
+*.bo.info
+*.sched
+*.sched.dot
+*.vcd
+*.bluesim
+bluesim.sim
+a.out
+a.exe
+
+# Verilog / C++ outputs from -verilog or -sim
+*.v
+*.cxx
+*.h
+*.o
+*.so
+*.exe
+*.out
+
+# Common build directories
+sim/
+obj/
+VERILOG/
+bluesim/
+
+# Editor / OS junk
+*~
+*.swp
+.DS_Store
+
