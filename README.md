@@ -5,5 +5,5 @@
 4. Perform .bo elaboration  **bsc -sim -e <TopModule> -o <TopName(Enter the alias for the sim file)>**
 5. ./(filename) for simulation
 
-## Convert to verilog command
+## Convert to verilog 
 bsc -u -verilof -g <TOPModule> <FileName>.bsv
