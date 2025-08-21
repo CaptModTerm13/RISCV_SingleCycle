@@ -6,4 +6,4 @@
 5. ./(filename) for simulation
 
 ## Convert to verilog 
-bsc -u -verilog -g <TOPModule> <FileName>.bsv
+bsc -u -verilog -g TOPModule FileName.bsv
